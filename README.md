@@ -7,10 +7,11 @@ The goal of the competition is to predict the listening time of podcast episodes
 
 ## 📂 Project Structure
 
-├── Podcast_Prediction_Final.ipynb # Full notebook: EDA, modeling, evaluation
-├── Podcast_Project_Slides.pdf # Slide deck summarizing the project
-└── README.md # Project documentation
-
+```
+├── Podcast_Prediction_Final.ipynb       # Full notebook: EDA, modeling, evaluation
+├── Podcast_Project_Slides.pdf           # Slide deck summarizing the project
+└── README.md                            # Project documentation
+```
 ---
 
 ## 🗃 Dataset
